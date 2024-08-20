@@ -1,4 +1,3 @@
 # PYTHON
 lesson
 
-Islam tixo
