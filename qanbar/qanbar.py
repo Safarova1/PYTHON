@@ -1,1 +1,1 @@
-print("tamayev")
+print("tamayev ISLAM")
